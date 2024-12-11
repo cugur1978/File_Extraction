@@ -1,10 +1,10 @@
-## File_Extraction
+# File_Extraction
 
 A Python script to collect *.* files from subfolders and consolidate them into a single target folder for streamlined file management.
 
 This script automates the process of gathering .gff files from multiple subdirectories within a specified main directory and copies them into a designated folder named gffs. It ensures efficient organization by consolidating all .gff files in one place for easier access and management.
 
-# Usage:
+## Usage:
 
 1- Specify the path to the main folder containing subdirectories in the source_folder variable.
 
